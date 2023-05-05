@@ -2,7 +2,7 @@ library(REDCapR)
 
 #Provide Project API Token
 token <-
-uri<- "https://redcap.doh.wa.gov/api/"
+uri<- 
 
 #Provide Report ID
 report_id <- 
